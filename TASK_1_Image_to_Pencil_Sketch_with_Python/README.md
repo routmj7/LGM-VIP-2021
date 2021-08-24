@@ -1,7 +1,7 @@
 1. I have done this project as task 1 for the data analysis internship from letsgrowmore
 2. Domain: Data Science Intern 
 3. Level: Intermedialte
-4. Task 1:Exploratory Data Analysis on Dataset - Terrorism
+4. [Task 1](https://www.canva.com/design/DAEjrwWV35w/-gxHUkJMO1Zr4pYVVpOYcg/view?utm_content=DAEjrwWV35w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#11):Exploratory Data Analysis on Dataset - Terrorism
 5. Programming Language: Python
 6. IDE: Google Colab
 7. We need to read the image in RBG format and then convert it to a grayscale image.
